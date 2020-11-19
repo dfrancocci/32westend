@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Electrical
 
 You can use the [editor on GitHub](https://github.com/dfrancocci/32westend/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
