@@ -24,4 +24,4 @@ Planning for a single storey extension was submitted to Wiltshire Council via th
 [Floor plans 1:50 PDF](32westend floor plans 1-50_v2.pdf)
 
 ## Decision notice
-[Decision notice](Decision Notice for 19 04152 FUL - 32 West End.pdf)
+[Decision notice PDF](Decision Notice for 19 04152 FUL - 32 West End.pdf)
