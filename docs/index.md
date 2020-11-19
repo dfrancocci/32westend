@@ -2,8 +2,8 @@
 
 This is the documentation for house renovation at 32 West End. 
 
-[Electrical changes](/electrical/)
+[Electrical changes](electrical/)
 
-[Planning application for extension](/planning/)
+[Planning application for extension](planning/)
 
-[Extension documentation](/extension/)
+[Extension documentation](extension/)
