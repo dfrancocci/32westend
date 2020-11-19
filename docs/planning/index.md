@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Planning for extension
+
+![aerial view](aerial view.png)
 
 You can use the [editor on GitHub](https://github.com/dfrancocci/32westend/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
