@@ -1,6 +1,20 @@
 # Planning for extension
 
+## Aerial view
 ![aerial view](/aerial view.png)
+
+## Block plan
+![block plan](/block plan.png)
+
+## Outline
+![outline](/outline.png)
+
+## Photo of rear of property
+![Rear of property](/32westend photo of existing rear of property.jpg)
+
+## Planning submission
+[Floor plans 1:50 PDF](32westend floor plans 1-50_v2.pdf)
+
 
 You can use the [editor on GitHub](https://github.com/dfrancocci/32westend/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
