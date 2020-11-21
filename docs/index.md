@@ -7,3 +7,5 @@ This is the documentation for house renovation at 32 West End.
 [Planning application for extension](planning/)
 
 [Extension documentation](extension/)
+
+[Flooring changes on ground floor](flooring/)
